@@ -1,7 +1,7 @@
 # Tenda de Umbanda D 'goe da mata Distribution Manager
 Management system for sending basic food baskets with stock
 
-## Using the library
+## Preparing the environment
 
 ```bash
 # under development
